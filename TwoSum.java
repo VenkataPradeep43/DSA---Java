@@ -1,5 +1,3 @@
-
-
 class TwoSum {
     static boolean twosum(int[] a,int t){
         int n=a.length;
